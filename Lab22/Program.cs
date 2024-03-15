@@ -4,7 +4,7 @@ namespace Lab22
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Console.WriteLine("Введите размерность массива");
             object a = Convert.ToInt32(Console.ReadLine());
